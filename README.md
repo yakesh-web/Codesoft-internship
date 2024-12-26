@@ -55,9 +55,9 @@ The project is organized as follows:
 -A modern web browser for viewing the portfolio.
 
 # preview
-![Screenshot 2024-12-26 1 34 00 PM](https://github.com/user-attachments/assets/6eecf0c6-d1a8-4263-b1bc-d2fe9c83d380)
-![Screenshot 2024-12-26 1 34 31 PM](https://github.com/user-attachments/assets/3c0e975b-2714-4cbe-a261-08792af84a06)
-![Screenshot 2024-12-26 1 34 41 PM](https://github.com/user-attachments/assets/d72a4502-d8b2-4e85-9ff5-7e74152e2077)
+![Screenshot 2024-12-26 1 34 00 PM](https://github.com/user-attachments/assets/9a824d2f-8d60-4453-92ae-ba8bbeebcefc)
+![Screenshot 2024-12-26 1 34 31 PM](https://github.com/user-attachments/assets/3d2d1773-9929-4306-b961-3e7b463acb5d)
+![Screenshot 2024-12-26 1 34 41 PM](https://github.com/user-attachments/assets/dfad24a2-f437-4dc2-a773-faf8889e60f4)
 
 
 
@@ -107,9 +107,11 @@ Change Styling: Adjust the styles.css file to fit your branding and design prefe
 Replace Images: Add your institution's images in the images/ folder and update the paths in the HTML.
 
 # preview
-![Screenshot 2024-12-26 1 36 39 PM](https://github.com/user-attachments/assets/de19c9a5-739e-41a7-9921-78b9be423877)
-![Screenshot 2024-12-26 1 37 09 PM](https://github.com/user-attachments/assets/4a7f896c-4418-4c60-8c85-b3e8e1f76d17)
-![Screenshot 2024-12-26 1 37 01 PM](https://github.com/user-attachments/assets/5a3bc01c-c85b-43d0-8005-06afdec584fa)
+![Screenshot 2024-12-26 1 36 39 PM](https://github.com/user-attachments/assets/1b13e86b-da5f-4f2d-b774-0bcb86c662a6)
+![Screenshot 2024-12-26 1 37 09 PM](https://github.com/user-attachments/assets/62802f3c-eaf2-42a9-bc35-64113356bdee)
+![Screenshot 2024-12-26 1 37 01 PM](https://github.com/user-attachments/assets/2dcca3ef-3a92-4791-88ff-5b2f5a851a2f)
+
+
 
 
 
