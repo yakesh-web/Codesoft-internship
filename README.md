@@ -54,6 +54,122 @@ The project is organized as follows:
 -Basic understanding of HTML and CSS.
 -A modern web browser for viewing the portfolio.
 
+# preview
+![Screenshot 2024-12-26 1 34 00 PM](https://github.com/user-attachments/assets/6eecf0c6-d1a8-4263-b1bc-d2fe9c83d380)
+![Screenshot 2024-12-26 1 34 31 PM](https://github.com/user-attachments/assets/3c0e975b-2714-4cbe-a261-08792af84a06)
+![Screenshot 2024-12-26 1 34 41 PM](https://github.com/user-attachments/assets/d72a4502-d8b2-4e85-9ff5-7e74152e2077)
+
+
+
+# 2..College Landing Page
+
+## Overview
+This project is a modern and responsive landing page designed for a college. It showcases the institution's features, facilities, and contact information in an engaging and professional layout.
+
+---
+
+## Features
+- **Hero Section**: Welcomes visitors with a bold statement and background image.
+- **About Section**: Provides an overview of the college and its values.
+- **Features Section**: Highlights key benefits of choosing the college.
+- **Facilities Section**: Displays various campus facilities with images and descriptions.
+- **Contact Section**: Includes a contact form and details like email, phone number, and address.
+- **Responsive Design**: The page adjusts beautifully across devices.
+
+---
+
+## Technologies Used
+- **HTML5**: Structure of the web page.
+- **CSS3**: Styling and layout.
+- **Google Fonts**: Typography customization.
+- **Images**: Visual representation of facilities.
+
+---
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+
+
+# college-landing-page/
+├── index.html        # Main HTML file
+├── styles.css        # Stylesheet for the page
+├── images/           # Folder containing images for the site
+└── README.md         # Project documentation
+
+# Customization
+
+Update Content: Modify the HTML sections to include your college's specific information.
+
+Change Styling: Adjust the styles.css file to fit your branding and design preferences.
+
+Replace Images: Add your institution's images in the images/ folder and update the paths in the HTML.
+
+# preview
+![Screenshot 2024-12-26 1 36 39 PM](https://github.com/user-attachments/assets/de19c9a5-739e-41a7-9921-78b9be423877)
+![Screenshot 2024-12-26 1 37 01 PM](https://github.com/user-attachments/assets/5a3bc01c-c85b-43d0-8005-06afdec584fa)
+![Screenshot 2024-12-26 1 37 09 PM](https://github.com/user-attachments/assets/4a7f896c-4418-4c60-8c85-b3e8e1f76d17)
+
+
+
+
+
+
+
+
+# 3.Calculator
+
+An interactive and visually appealing calculator built with HTML, CSS, and JavaScript. This calculator provides basic arithmetic operations and additional features like percentage calculation and backspace functionality.
+
+---
+
+## Features
+
+- **Basic Arithmetic:** Addition, subtraction, multiplication, and division.
+- **Additional Functions:** Percentage calculation and backspace support.
+- **Responsive Design:** Works seamlessly across devices with different screen sizes.
+- **Modern UI:** Clean and intuitive interface with smooth button interactions.
+- **Error Handling:** Displays `Error` for invalid operations, such as division by zero.
+
+---
+
+## Technologies Used
+
+- **HTML**: For creating the structure of the calculator.
+- **CSS**: For styling and layout, including grid-based alignment.
+- **JavaScript**: For handling interactivity and calculations.
+
+---
+
+# preview
+![image](https://github.com/user-attachments/assets/3bc58297-1891-41c1-81de-3ea3f4d8a62f)
+
+
+## How to Use
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/enhanced-calculator.git
+
+# STRUCTURE
+enhanced-calculator/
+├── index.html      # Main HTML file
+├── styles.css      # Stylesheet for the calculator
+├── script.js       # JavaScript for interactivity
+└── README.md       # Project documentation
+
+# Features in Detail
+
+Clear (C): Resets the calculator display to 0.
+Backspace (←): Deletes the last entered digit.
+Percentage (%): Converts the current number into its percentage value.
+Equals (=): Performs the calculation based on the selected operator.
+Error Handling: Prevents invalid operations like dividing by zero.
+
+
+
+
 
 
 
