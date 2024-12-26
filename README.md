@@ -108,8 +108,8 @@ Replace Images: Add your institution's images in the images/ folder and update t
 
 # preview
 ![Screenshot 2024-12-26 1 36 39 PM](https://github.com/user-attachments/assets/de19c9a5-739e-41a7-9921-78b9be423877)
-![Screenshot 2024-12-26 1 37 01 PM](https://github.com/user-attachments/assets/5a3bc01c-c85b-43d0-8005-06afdec584fa)
 ![Screenshot 2024-12-26 1 37 09 PM](https://github.com/user-attachments/assets/4a7f896c-4418-4c60-8c85-b3e8e1f76d17)
+![Screenshot 2024-12-26 1 37 01 PM](https://github.com/user-attachments/assets/5a3bc01c-c85b-43d0-8005-06afdec584fa)
 
 
 
